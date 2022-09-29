@@ -39,4 +39,4 @@
 
 -	Third, the Suburban market is following an uptick in the Total Fare by City Type chart. With a bit more advertisement, and driver converted over to this area you could expect the number to keep going up with a few declines in between holidays months.
 
-![image]PyBer_fare_summary.png
+![image](https://github.com/darren1192g/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
